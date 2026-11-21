@@ -1,11 +1,11 @@
 {
-  "versionCode": 150,
-  "versionName": "1.1.150",
+  "versionCode": 152,
+  "versionName": "1.1.152",
   "url": "https://github.com/amisytech/gemra-android-releases/releases/latest/download/gemra.apk",
-  "notes": "Gemra for Android 1.1.150, build 150 (f2e7565). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
-  "publishedAt": "Sat 2026-11-21 7:48 AM WAT (UTC+01:00)",
-  "commit": "f2e75659ffb376a6d531827bc0656e2dcc228289",
-  "sha256": "ee3579894624e16bd11ebbaa3a8d695bf49281c799d6fad163d4fcd916090341",
+  "notes": "Gemra for Android 1.1.152, build 152 (36cd4a4). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
+  "publishedAt": "Sat 2026-11-21 10:30 AM WAT (UTC+01:00)",
+  "commit": "36cd4a416527dfd6f7ac450d00412f78474c6dba",
+  "sha256": "b46ba2138b2b6bac4c696c289cde1f246da1b2e8086bc52b8457d3685287041d",
   "size": 6659167,
-  "highlights": "Fix: Phone voice picker shows on every phone"
+  "highlights": "Talk over Gemra to interrupt: in Basic voice calls, start speaking while Gemra talks and it stops at once and listens."
 }
