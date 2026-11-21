@@ -1,11 +1,11 @@
 {
-  "versionCode": 155,
-  "versionName": "1.1.155",
+  "versionCode": 157,
+  "versionName": "1.1.157",
   "url": "https://github.com/amisytech/gemra-android-releases/releases/latest/download/gemra.apk",
-  "notes": "Gemra for Android 1.1.155, build 155 (bc4b0ac). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
-  "publishedAt": "Sat 2026-11-21 12:24 PM WAT (UTC+01:00)",
-  "commit": "bc4b0ac5f68f781caa677229051ce0181c1335d5",
-  "sha256": "fcab7b4111585ab6d55de1ef2e3bd13065683652d09ba9d96f1a339145d1e717",
-  "size": 6662135,
-  "highlights": "Phone alerts now work: Gemra can notify you even when the app is closed. Settings > Notifications shows a real switch, Open phone settings, and a test alert."
+  "notes": "Gemra for Android 1.1.157, build 157 (4cfa97c). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
+  "publishedAt": "Sat 2026-11-21 1:16 PM WAT (UTC+01:00)",
+  "commit": "4cfa97c2a4857f938a645cdf0eec3dfc80ca64dd",
+  "sha256": "cc3e7e80654e6f3e7796d8e802a5ad668f6c65e751f0c03c60384d0701a55e63",
+  "size": 6662159,
+  "highlights": "Haptic feedback: a light buzz on long-press, swipe to reply, Gemra's replies, pin, delete, back and ending a voice chat. Turn it off in Settings > Display."
 }
