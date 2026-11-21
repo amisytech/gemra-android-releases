@@ -1,11 +1,11 @@
 {
-  "versionCode": 161,
-  "versionName": "1.1.161",
+  "versionCode": 163,
+  "versionName": "1.1.163",
   "url": "https://github.com/amisytech/gemra-android-releases/releases/latest/download/gemra.apk",
-  "notes": "Gemra for Android 1.1.161, build 161 (aadc71e). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
-  "publishedAt": "Sat 2026-11-21 1:43 PM WAT (UTC+01:00)",
-  "commit": "aadc71e7aea703103dc8536ff4091701372027a1",
-  "sha256": "721f937ea83106b4ae6954f9447eabecd9537b4aa68b225e4fa271a557953bab",
-  "size": 6662159,
-  "highlights": "Reply alerts open the chat they came from, and no alert while you're reading that chat."
+  "notes": "Gemra for Android 1.1.163, build 163 (398398e). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
+  "publishedAt": "Sat 2026-11-21 2:25 PM WAT (UTC+01:00)",
+  "commit": "398398e735cd4e16826feeb298e7619f71e7055f",
+  "sha256": "099c4aa75487f9c6a6c924a6e0fd41e2cca210903e9390909ccb9d7b333c2854",
+  "size": 6662215,
+  "highlights": "Share your location now works: Gemra asks once so the live sky follows where you are. Clearer error messages."
 }
