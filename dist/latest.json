@@ -1,11 +1,11 @@
 {
-  "versionCode": 157,
-  "versionName": "1.1.157",
+  "versionCode": 159,
+  "versionName": "1.1.159",
   "url": "https://github.com/amisytech/gemra-android-releases/releases/latest/download/gemra.apk",
-  "notes": "Gemra for Android 1.1.157, build 157 (4cfa97c). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
-  "publishedAt": "Sat 2026-11-21 1:16 PM WAT (UTC+01:00)",
-  "commit": "4cfa97c2a4857f938a645cdf0eec3dfc80ca64dd",
-  "sha256": "cc3e7e80654e6f3e7796d8e802a5ad668f6c65e751f0c03c60384d0701a55e63",
+  "notes": "Gemra for Android 1.1.159, build 159 (94b5e87). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
+  "publishedAt": "Sat 2026-11-21 1:35 PM WAT (UTC+01:00)",
+  "commit": "94b5e87e0d96e607d8ae68b122b2f4d1839c8d18",
+  "sha256": "20db6a5e94280072a03038e8e234163c1b155cdac4691df9fde85a59cc67e68d",
   "size": 6662159,
-  "highlights": "Haptic feedback: a light buzz on long-press, swipe to reply, Gemra's replies, pin, delete, back and ending a voice chat. Turn it off in Settings > Display."
+  "highlights": "No more false \"update didn't finish\" alert after a successful update."
 }
