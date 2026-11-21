@@ -1,0 +1,17 @@
+name: Publish APK
+on:
+  push:
+    branches: [publish]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V=$(jq -r .versionCode dist/latest.json)
+          gh release edit gemra-latest --repo "$GITHUB_REPOSITORY" --title "Gemra for Android 1.1.$V (build $V)" --notes-file dist/notes.txt --latest
+          gh release upload gemra-latest dist/gemra.apk dist/gemra.apk.sha256 dist/latest.json --repo "$GITHUB_REPOSITORY" --clobber

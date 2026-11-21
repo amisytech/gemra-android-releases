@@ -1,0 +1,11 @@
+{
+  "versionCode": 148,
+  "versionName": "1.1.148",
+  "url": "https://github.com/amisytech/gemra-android-releases/releases/latest/download/gemra.apk",
+  "notes": "Gemra for Android 1.1.148, build 148 (deb2a01). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
+  "publishedAt": "2026-11-21T06:16:25Z",
+  "commit": "deb2a013b71406839544966126f4cd2bcb41a3eb",
+  "sha256": "c956161cab969a4f3f1ef69969b3f4970ac43b9c21549ad1b3f59e43c86296ce",
+  "size": 6659167,
+  "highlights": "New: pick Gemra's voice for Basic voice"
+}
