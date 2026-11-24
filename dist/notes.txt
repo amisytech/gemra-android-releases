@@ -1,1 +1,1 @@
-Gemra for Android 1.1.165, build 165 (ab9fdca). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.
+Gemra for Android 1.1.178, build 178 (d1a44f6). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.

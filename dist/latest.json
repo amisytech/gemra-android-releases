@@ -1,11 +1,11 @@
 {
-  "versionCode": 165,
-  "versionName": "1.1.165",
+  "versionCode": 178,
+  "versionName": "1.1.178",
   "url": "https://github.com/amisytech/gemra-android-releases/releases/latest/download/gemra.apk",
-  "notes": "Gemra for Android 1.1.165, build 165 (ab9fdca). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
-  "publishedAt": "Sat 2026-11-21 3:13 PM WAT (UTC+01:00)",
-  "commit": "ab9fdca7ce9706dac84e115cc5685c652fb51731",
-  "sha256": "36a58d79b4a2bb394e28d5e82552936a9d0d96dcff00865107f4acd86bf6a76d",
-  "size": 6662215,
-  "highlights": "Interrupt Gemra by talking; voice can make pictures, code, websites and projects"
+  "notes": "Gemra for Android 1.1.178, build 178 (d1a44f6). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
+  "publishedAt": "Tue 2026-11-24 12:39 PM WAT (UTC+01:00)",
+  "commit": "d1a44f6fd5a72aadbf19cbb4985b9cca8326ab46",
+  "sha256": "0d7fd02fb61df90b99b93b80d0cd73443603939c0114602b611ef846c1482466",
+  "size": 12742381,
+  "highlights": "Reply alerts now clear by themselves when you open that chat"
 }
