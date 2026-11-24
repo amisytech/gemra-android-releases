@@ -1,11 +1,11 @@
 {
-  "versionCode": 178,
-  "versionName": "1.1.178",
+  "versionCode": 180,
+  "versionName": "1.1.180",
   "url": "https://github.com/amisytech/gemra-android-releases/releases/latest/download/gemra.apk",
-  "notes": "Gemra for Android 1.1.178, build 178 (d1a44f6). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
-  "publishedAt": "Tue 2026-11-24 12:39 PM WAT (UTC+01:00)",
-  "commit": "d1a44f6fd5a72aadbf19cbb4985b9cca8326ab46",
-  "sha256": "0d7fd02fb61df90b99b93b80d0cd73443603939c0114602b611ef846c1482466",
-  "size": 12742381,
-  "highlights": "Reply alerts now clear by themselves when you open that chat"
+  "notes": "Gemra for Android 1.1.180, build 180 (46d9a48). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
+  "publishedAt": "Tue 2026-11-24 1:24 PM WAT (UTC+01:00)",
+  "commit": "46d9a4858da0a8c9b4962ddecef315343ce1d09f",
+  "sha256": "bf7701e13909489a87abc690793c105198752862995d813403b339f00f41255b",
+  "size": 12742493,
+  "highlights": "Fix: update stuck at Downloading\u2026"
 }
