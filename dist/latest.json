@@ -1,11 +1,11 @@
 {
-  "versionCode": 183,
-  "versionName": "1.1.183",
+  "versionCode": 189,
+  "versionName": "1.1.189",
   "url": "https://github.com/amisytech/gemra-android-releases/releases/latest/download/gemra.apk",
-  "notes": "Gemra for Android 1.1.183, build 183 (7f1bd1a). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
-  "publishedAt": "Tue 2026-11-24 2:08 PM WAT (UTC+01:00)",
-  "commit": "7f1bd1abbedcf3ade8d053a94a405252744e9785",
-  "sha256": "0174168bcfccc6967aa3c1607e6bff4a6ed65c3972838ad48cfc1ebc934346b1",
-  "size": 12747229,
-  "highlights": "Updates now download inside Gemra"
+  "notes": "Gemra for Android 1.1.189, build 189 (41bbbb3). Install: open gemra.apk on your phone and allow installs from unknown sources when Android asks.",
+  "publishedAt": "Thu 2026-11-26 9:22 PM WAT (UTC+01:00)",
+  "commit": "41bbbb36494108fe7af22f6804b12bacd07030a9",
+  "sha256": "9124b0c9a97f381227eda7692861e300970f6848116f88743a8e018b5f9b8c6b",
+  "size": 12750501,
+  "highlights": "Gemra shows its working job as running work (timer, step, progress) \u2014 Live Update / Dynamic Port on supported phones; Autopilot now asks before building"
 }
